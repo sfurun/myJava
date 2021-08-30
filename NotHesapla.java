@@ -2,7 +2,7 @@ package gitProject;
 
 import java.util.Scanner;
 
-public class NotOrtalama {
+public class NotHesapla {
 
 	public static void main(String[] args) {
 		
