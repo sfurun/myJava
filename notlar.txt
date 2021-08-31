@@ -1,0 +1,4 @@
+git remote set-url origin https://github.com/sfurun/myJava.git   'Remote set yapmak(git adresini projeye referans vermek) için'
+
+git push -u origin master -f (Commit edilmiş proje dosyalarını githuba almak için)
+
