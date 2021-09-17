@@ -2,3 +2,4 @@ git remote set-url origin https://github.com/sfurun/myJava.git   'Remote set yap
 
 git push -u origin master -f (Commit edilmiş proje dosyalarını githuba almak için)
 
+GridView1.Columns(i).HeaderStyle.Font.Bold = False
